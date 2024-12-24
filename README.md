@@ -45,6 +45,19 @@ Samik: Data Analysis and Visualization.
 Tanishk Tiwari: Model Building.
 
 ## WHAT WE DID?
+### Data Analysis
+* We Analysed the given datasets - train.csv .
+* We found null values and different datatypes.
+* We then created a correlation chart to find relations between different features.
+
+### Data Cleaning & Processing
+* We first changed the datatype object to int using label encoding and one hot encoding. 
+* We used TF-IDF Vectorization to convert text into a matrix of numbers which works with our chosen model.
+* We used Feature engineering to create more useful features which could help our model train better.
+* We filled missing data using group.by wrt to correlation chart.
+  
+
+
 
 
 
