@@ -12,6 +12,7 @@ Our task is to assist the marketing team by predicting the persona group for 2,6
 The dataset contains records for 5,647 individuals, with 12 key features that include:
 
 ID: Unique identifier for each customer.
+
 Sex: Gender of the customer.
 Bachelor: Indicates the marital status of the customer.
 Age: Customer's age.
